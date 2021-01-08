@@ -11,6 +11,7 @@ B. A marketplace where users can sell their plants and buy more expensive ones t
 
 C. Graphs that include analysis on the current state of your farm and steps you should take to improve your revenue growth & economics.
 
+________________________________________________________________________________________________________________________________________________________
 
 THE FILE TO RUN : verticalfarming-2.py
 Used PIL/pillow module from notes so that should be installed for this to run.
@@ -19,6 +20,8 @@ Used PIL/pillow module from notes so that should be installed for this to run.
 
 (2) Your garden: 
 Everything on the menu on the right is a button, except for the 'Menu' rectangle and the balance.
+
+____________________________________________________________________________
 
 TABLE FOR ACTIONS (press key to do the following) -->
 
@@ -59,6 +62,8 @@ Also you can navigate the menu.
 
 (5) Graph Analysis:
 Click on the 'prediction' button to get your prediction. You can click it again to remove the prediction, and click it a third time to get a new prediction.
+
+____________________________________________________________________________
 
 Your graph will automatically update every time your money value changes.
 
