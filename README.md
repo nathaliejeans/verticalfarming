@@ -22,20 +22,19 @@ Everything on the menu on the right is a button, except for the 'Menu' rectangle
 
 TABLE FOR ACTIONS (press key to do the following) -->
 
-plant type    add	remove
-+----------+--------+--------+
-|  planter | p      |   X    |
-+----------+--------+--------+
-|  plant   | a      |   r    | 
-+----------+--------+--------+
-|  cabbage | c      |   t    | 
-+----------+--------+--------+
-|  flower  | f      |   w    | 
-+----------+--------+--------+
-|  rose    | o      |   s    | 
-+----------+--------+--------+
-|  tropic  | i      |   k    | 
-+----------+--------+--------+  
+plant type (add key, remove key)
+
+planter (p, x)
+
+plant   (a, r)
+
+cabbage (c, t)
+
+flower  (f, w)
+
+rose    (o, s)
+
+tropic  (i, k)
 
 Note that this will only work if you have the capacity to sell/buy/plant based on your garden, so be sure to check your inventory.
 
@@ -43,8 +42,11 @@ To zoom up on a fish tank, press the number of the fish tank. It should go from 
 The order goes in columns, so the first column down is 0, 1, 2 then the next column is 3, 4, 5, etc. They are labelled.
 
 Like so:
+
 [0 3 6
+
  1 4 7
+ 
  2 5 8]
 
 (3) Your fish tank:
@@ -59,10 +61,13 @@ Also you can navigate the menu.
 Click on the 'prediction' button to get your prediction. You can click it again to remove the prediction, and click it a third time to get a new prediction.
 
 Your graph will automatically update every time your money value changes.
+
 You can click each pink point to get more precise values on your axis.
 
 Press 'a' to scale up axis
+
 Press 's' to scale down axis
 
 Note that using a prediction is worth $30.
+
 Navigate the menu at the top of the screen.
