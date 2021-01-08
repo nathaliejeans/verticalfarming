@@ -1,4 +1,4 @@
-# VERTICAL AEROPONIC FARMING SIMULATION
+# Vertical Aeroponic Farming Simulation
 
 HOW-TO
 
