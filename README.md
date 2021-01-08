@@ -1,6 +1,6 @@
 # VERTICAL AEROPONIC FARMING SIMULATION
 
-How-To
+HOW-TO
 
 My ultimate goal with this project is to provide an interactive way of educating people about vertical farming and its possibilities. Vertical farming is when plants are grown in layers, which enables farming to occur in smaller spaces rather than larger stretches of land. The particular system I’m focusing on is an aquaponic system, where the nutrients of aquatic animals like fish nourish the plants above it. I’m going to create multiple parts of the game that interact with one another as follows:
 
