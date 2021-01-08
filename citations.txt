@@ -1,0 +1,13 @@
+CITATIONS
+
+For Vertical Farming by Nathalie Jeans (njeans)
+
+These citations are my citations for the video only. The citations for the images are embedded in my code (vertical farming-2.py).
+
+B Roll footage from the video:
+https://www.youtube.com/watch?v=3Ww2TP_tU7o&t&ab_channel=USATODAYLife
+
+Audio:
+from www.bensound.com --> Royalty Free Music from Bensound
+
+https://www.bensound.com/royalty-free-music/track/dreams-chill-out

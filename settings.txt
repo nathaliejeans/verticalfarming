@@ -1,0 +1,25 @@
+1607449490.639403 
+tropic,0.5 plant,0.5 plant,0.5 6
+rose,0.5 cabbage,0.5 cabbage,0.5 4
+plant,0.5 flower,0.5 rose,0.5 4
+flower,0.5 plant,0.5 cabbage,0.5 5
+flower,0.4 rose,0.30000000000000004 None 2
+$ 
+805
+3
+1
+5
+1
+2
+0
+4
+0
+5
+0
+2
+0 950 
+1 930 
+2 1010 
+3 835 
+4 805 
+%
