@@ -1,9 +1,6 @@
 Vertical Farming Simulation
 How-To
 
-**THE AUTOLAB SUBMISSION DOES NOT INCLUDE ANY OF THE IMAGES BECAUSE THEY WERE TOO LARGE.
-**SEE THE GOOGLE DRIVE VERSION FOR THE FULL FOLDER WITH ALL THE IMAGES INCLUDED.
-
 My ultimate goal with this project is to provide an interactive way of educating people about vertical farming and its possibilities. Vertical farming is when plants are grown in layers, which enables farming to occur in smaller spaces rather than larger stretches of land. The particular system I’m focusing on is an aquaponic system, where the nutrients of aquatic animals like fish nourish the plants above it. I’m going to create multiple parts of the game that interact with one another as follows:
 
 A. The ability to grow plants and cabbages from the inventory. Can also add fish into fish tanks.
